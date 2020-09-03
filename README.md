@@ -4,7 +4,7 @@ This is a version of the [slate](https://github.com/ianstormtaylor/slate) rich t
 
 The steps to run this project are as follows:
 
-1. Add the project directory to the PYTHONPATH environment variable on your local system. (Instructions for windows: [here](https://stackoverflow.com/questions/3701646/how-to-add-to-the-pythonpath-in-windows-so-it-finds-my-modules-packages).
+1. Add the project directory to the PYTHONPATH environment variable on your local system. (Instructions for windows: [here](https://stackoverflow.com/questions/3701646/how-to-add-to-the-pythonpath-in-windows-so-it-finds-my-modules-packages))
   
 2. Use ‘django-admin runserver --settings=slate.settings’ from the project root directory to run the server
   
