@@ -1,6 +1,6 @@
 # slate-images
 
-This is a version of the slate rich text editor with the ability to add images added in.
+This is a version of the [slate](https://github.com/ianstormtaylor/slate) rich text editor with the ability to add images added in.
 
 The steps to run this project are as follows:
 
