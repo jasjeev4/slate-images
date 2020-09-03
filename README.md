@@ -5,7 +5,7 @@
 *  Ensure you have Python 3.7 or greater installed. You can opt to set up a virutal environment or a conda enviroment.
 *  Make sure pip works with the python installation 
 
-## This is a version of the [slate](https://github.com/ianstormtaylor/slate) rich text editor with the ability to add images added in.
+## This is a version of the [slate](https://github.com/ianstormtaylor/slate) rich text editor with the ability to add images added in
 
 The steps to run this project are as follows:
 
