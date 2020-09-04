@@ -11,9 +11,8 @@ The steps to run this project are as follows:
 
 1. Clone this repositary to the local system.
 
-2. Add the absolute path to the project directory to the PYTHONPATH environment variable on your local system. (Instructions for Windows: [here](https://stackoverflow.com/questions/3701646/how-to-add-to-the-pythonpath-in-windows-so-it-finds-my-modules-packages))
-
-3. Also add '[project-path]/venv/bin' (Where 'project-path' is the absolute path to the slate-images project directory. (Instructions for Mac/Linix: [here](https://osxdaily.com/2014/08/14/add-new-path-to-path-command-line/))
+2. Add the absolute path to the project directory to the PYTHONPATH environment variable on your local system. 
+(Instructions for Windows: [here](https://stackoverflow.com/questions/3701646/how-to-add-to-the-pythonpath-in-windows-so-it-finds-my-modules-packages) | For Mac/Linux the following command should work: export PYTHONPATH=/path/to/slate-images where /path/to/slate-images is the absolute path to the slate-images project)
 
 4. Run 'python -m pip install Django' from the project root directory to install Django.
   
