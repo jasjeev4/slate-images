@@ -1,5 +1,9 @@
 # slate-images
 
+A screenshot of a prototype:
+
+![slatepreviewpng](https://i.ibb.co/PC6d36T/slate-preview.png)
+
 ## Prerequistes:
 
 *  Ensure you have Python 3.7 or greater installed. You can opt to set up a virutal environment or a conda enviroment.
@@ -23,6 +27,3 @@ That&#39;s it! You should now be able to navate to your localhost via the follow
 
 http://127.0.0.1:8000/
 
-A screenshot of a prototype is provided:
-
-![slatepreviewpng](https://i.ibb.co/PC6d36T/slate-preview.png)
